@@ -1,0 +1,80 @@
+/* Global Styles */
+
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  color: #268a83;
+}
+
+h2 {
+  color: #268a83;
+  margin-top: 40px;
+}
+
+.subtitle {
+  color: #777;
+}
+
+ul, ol {
+  padding-left: 20px;
+}
+
+/* Experience Section */
+
+.experience-item {
+  margin-bottom: 40px;
+}
+
+.company {
+  font-weight: bold;
+  color: #268a83;
+}
+
+.date {
+  color: #777;
+}
+
+/* Education Section */
+
+.education-item {
+  margin-bottom: 30px;
+}
+
+.school {
+  font-weight: bold;
+  color: #268a83;
+}
+
+/* Skills Section */
+
+.skills {
+  margin-bottom: 30px;
+}
+
+.skill-item {
+  margin-bottom: 10px;
+}
+
+.skill-desc {
+  color: #777;
+}
+
+/* Contact Section */
+
+.contact-item {
+  margin-bottom: 20px;
+}
+
+/* Add your custom CSS styles and creative features here */
+

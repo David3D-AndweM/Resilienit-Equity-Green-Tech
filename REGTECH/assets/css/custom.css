@@ -1,0 +1,19 @@
+/* Custom CSS for making images responsive */
+
+/* You can add this in a separate CSS file or within a <style> tag in your HTML file */
+
+/* Set a maximum width for images to prevent them from overflowing the container */
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+/* Optional: If you want to center the images horizontally within their containers */
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
